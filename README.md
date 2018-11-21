@@ -1,2 +1,2 @@
 # traveldb.io
-Web front-end for Open Travel Database. Travel API description and documentation. 
+Placeholder repository for later use. 
